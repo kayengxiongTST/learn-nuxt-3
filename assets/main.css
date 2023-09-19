@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Phetsarath';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('./font/Phetsarath_OT.ttf') format('truetype');
+}
+* {
+    font-family: 'Phetsarath' !important;
+}
+.sar-primary-backgorund {
+    background-color: #f1f2f3 !important;
+}
+.pointer {
+    cursor: pointer;
+}
